@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sihayah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning OOP & TDD
+- 🌱 I’m currently learning SQL
 - 📫 I can be reached at sihaya_a@hotmail.com
 
 <!---
