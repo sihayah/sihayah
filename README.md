@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sihayah
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MVC
-- 📫 I can be reached at sihaya_a@hotmail.com
+- 👀 I’m a full-stack web developer
+- 📫 I can be reached at sihayaharris@gmail.com
 
 <!---
 sihayah/sihayah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
